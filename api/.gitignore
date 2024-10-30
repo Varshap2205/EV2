@@ -1,0 +1,19 @@
+
+node_modules
+# Node.js
+node_modules/
+.env
+
+# Build outputs
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Git specific
+.git/
+
